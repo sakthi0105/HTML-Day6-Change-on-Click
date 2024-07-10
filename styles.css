@@ -1,0 +1,19 @@
+body{
+    display:center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    background-color: white;
+}
+button{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-family: fantasy;
+    border-radius: 10px;
+    border : 2px solid rgb(21, 255, 21);
+    color: forestgreen;
+    cursor:pointer;
+    backdrop-filter: blur(3px);
+
+}
